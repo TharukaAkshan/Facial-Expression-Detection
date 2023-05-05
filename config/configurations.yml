@@ -1,0 +1,4 @@
+data:
+  model_path: 'D:\3. ICBT Degree\Module 05 Final Dissertation Project New\Music Therapy Streamlit App\data\FacialExpression_Detection.hf5'
+  song_lists_path: 'D:\3. ICBT Degree\Module 05 Final Dissertation Project New\Music Therapy Streamlit App\data\Songs'
+  images_path: 'D:\3. ICBT Degree\Module 05 Final Dissertation Project New\Music Therapy Streamlit App\data\images'
